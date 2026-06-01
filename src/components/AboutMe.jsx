@@ -1,4 +1,4 @@
-import michelImg from '../assets/imagen-michel-1.jpeg'
+import michelImg from '../assets/imagen-michel-4.jpeg'
 
 export default function AboutMe() {
   return (

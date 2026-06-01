@@ -1,0 +1,26 @@
+{
+  "collection": "Between",
+  "theme": "Control vs Libertad",
+  "tagline": "Entre la piel y el aire",
+  "description": "Una propuesta donde la prenda vive en tensión constante entre contener y soltar: siluetas que estructuran el cuerpo (corsetería, líneas limpias) atravesadas por capas ligeras y translúcidas que se mueven con el aire.",
+  "images": [
+    {
+      "id": 1,
+      "alt": "Between — CORSET SILVI",
+      "title": " CORSET SILVI - Corsetería Línea Limpia",
+      "description": "Estructura que define y contiene"
+    },
+    {
+      "id": 2,
+      "alt": "Between — PANTY ELLE",
+      "title": "PANTY ELLE - Capas Translúcidas",
+      "description": "Ligereza que se mueve con el aire"
+    },
+    {
+      "id": 3,
+      "alt": "Between — VAM SHORT",
+      "title": "VAM SHORT - Detalle Artesanal",
+      "description": "Cada costura cuenta una historia"
+    }
+  ]
+}

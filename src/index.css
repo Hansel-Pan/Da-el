@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-da-black: #000000;
+  --color-da-beige: #F3ECE3;
+  --color-da-brown: #91766E;
+  --color-da-white: #FFFFFF;
+  --color-da-pink: #C8A19C;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+}
+
+@layer base {
+  h1, h2, h3, h4 {
+    font-family: var(--font-serif);
+  }
+}
